@@ -1,0 +1,5 @@
+G:\My oprekan\My Dot net\V2010\2Layers\SIK\bin\SIK.dll
+G:\My oprekan\My Dot net\V2010\2Layers\SIK\bin\SIK.pdb
+G:\My oprekan\My Dot net\V2010\2Layers\SIK\obj\Debug\SIK.dll
+G:\My oprekan\My Dot net\V2010\2Layers\SIK\obj\Debug\SIK.pdb
+G:\My oprekan\My Dot net\V2010\2Layers\SIK\obj\Debug\SIK.csprojResolveAssemblyReference.cache
